@@ -18,7 +18,7 @@ require.config({
 		/**
 		 * non bower library
 		 */
-		'babylonjs': 'lib/js/babylonjs/babylon.1.10.0',
+		'babylonjs': 'lib/js/Babylon.js/babylon.1.10.0',
 		'handjs'   : 'lib/js/hand-1.3.8',
 
 		/**
